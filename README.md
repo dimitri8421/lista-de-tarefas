@@ -1,2 +1,3 @@
-# lista-de-tarefas
-Lista de tarefas feita com JAVASCRIPT, HTML, CSS
+# Lista de tarefas RESPONSIVA feita com: Javascript, HTML, CSS
+
+# [Veja Aqui]
